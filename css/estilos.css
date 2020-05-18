@@ -23,3 +23,8 @@ body {
   background: #33a;
   color: white;
 }
+#footer {
+  text-align: center;
+  color: white;
+  background: #333;
+}
